@@ -1,0 +1,4 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/simple_controller.dir/src/simple_controller.cpp.o[0m
+[ 50%] Built target slider_control
+[ 50%] Built target ament_cmake_python_copy_arduinobot_controller
+[ 83%] Built target arduinobot_controller

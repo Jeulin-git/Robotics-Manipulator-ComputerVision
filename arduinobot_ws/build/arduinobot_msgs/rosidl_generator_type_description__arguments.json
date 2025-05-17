@@ -1,0 +1,17 @@
+{
+  "package_name": "arduinobot_msgs",
+  "output_dir": "/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_type_description/arduinobot_msgs",
+  "idl_tuples": [
+    "/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/AddTwoInts.idl",
+    "/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/EulerToQuaternion.idl",
+    "/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/QuaternionToEuler.idl",
+    "/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:action/Fibonacci.idl",
+    "/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:action/ArduinobotTask.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "action_msgs:/opt/ros/jazzy/share/action_msgs",
+    "unique_identifier_msgs:/opt/ros/jazzy/share/unique_identifier_msgs"
+  ]
+}

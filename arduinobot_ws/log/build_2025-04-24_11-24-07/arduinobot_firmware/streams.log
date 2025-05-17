@@ -1,0 +1,46 @@
+[0.043s] Invoking command in '/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware -- -j8 -l8
+[0.117s] [ 50%] Built target simple_serial_receiver
+[0.117s] [ 50%] Built target ament_cmake_python_copy_arduinobot_firmware
+[0.117s] [100%] Built target simple_serial_transmitter
+[0.583s] running egg_info
+[0.624s] writing arduinobot_firmware.egg-info/PKG-INFO
+[0.625s] writing dependency_links to arduinobot_firmware.egg-info/dependency_links.txt
+[0.625s] writing top-level names to arduinobot_firmware.egg-info/top_level.txt
+[0.744s] reading manifest file 'arduinobot_firmware.egg-info/SOURCES.txt'
+[0.745s] writing manifest file 'arduinobot_firmware.egg-info/SOURCES.txt'
+[0.835s] [100%] Built target ament_cmake_python_build_arduinobot_firmware_egg
+[1.200s] Invoked command in '/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware -- -j8 -l8
+[1.201s] Invoking command in '/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware
+[1.215s] -- Install configuration: ""
+[1.215s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/environment/pythonpath.sh
+[1.215s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/environment/pythonpath.dsv
+[1.216s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info
+[1.216s] -- Installing: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/PKG-INFO
+[1.216s] -- Installing: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/top_level.txt
+[1.216s] -- Installing: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/SOURCES.txt
+[1.216s] -- Installing: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/dependency_links.txt
+[1.216s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware
+[1.217s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/simple_serial_receiver.py
+[1.217s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/simple_serial_transmitter.py
+[1.217s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/__init__.py
+[1.284s] Listing '/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware'...
+[1.304s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/arduinobot_firmware/simple_serial_receiver
+[1.308s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/arduinobot_firmware/simple_serial_transmitter
+[1.309s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/arduinobot_firmware/simple_serial_transmitter.py
+[1.309s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/lib/arduinobot_firmware/simple_serial_receiver.py
+[1.310s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/ament_index/resource_index/package_run_dependencies/arduinobot_firmware
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/ament_index/resource_index/parent_prefix_path/arduinobot_firmware
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/environment/ament_prefix_path.sh
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/environment/ament_prefix_path.dsv
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/environment/path.sh
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/environment/path.dsv
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.bash
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.sh
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.zsh
+[1.312s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.dsv
+[1.313s] -- Installing: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/package.dsv
+[1.317s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/ament_index/resource_index/packages/arduinobot_firmware
+[1.318s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/cmake/arduinobot_firmwareConfig.cmake
+[1.318s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/cmake/arduinobot_firmwareConfig-version.cmake
+[1.318s] -- Up-to-date: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/install/arduinobot_firmware/share/arduinobot_firmware/package.xml
+[1.321s] Invoked command in '/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_firmware

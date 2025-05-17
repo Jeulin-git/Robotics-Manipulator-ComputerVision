@@ -1,0 +1,5 @@
+/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/AddTwoInts.idl
+/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/EulerToQuaternion.idl
+/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:srv/QuaternionToEuler.idl
+/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:action/Fibonacci.idl
+/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_msgs/rosidl_adapter/arduinobot_msgs:action/ArduinobotTask.idl

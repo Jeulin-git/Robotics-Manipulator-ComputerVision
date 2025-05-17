@@ -1,0 +1,31 @@
+-- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found trajectory_msgs: 5.3.6 (/opt/ros/jazzy/share/trajectory_msgs/cmake)
+-- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found sensor_msgs: 5.3.6 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+-- Found rclcpp: 28.1.8 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclpy: 7.1.4 (/opt/ros/jazzy/share/rclpy/cmake)
+-- Found hardware_interface: 4.27.0 (/opt/ros/jazzy/share/hardware_interface/cmake)
+-- Configuring done (1.6s)
+-- Generating done (0.1s)
+-- Build files have been written to: /home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/arduinobot_ws/build/arduinobot_controller
+[ 16%] [32mBuilding CXX object CMakeFiles/simple_controller.dir/src/simple_controller.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/slider_control.dir/src/slider_control.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/arduinobot_controller.dir/src/arduinobot_interface.cpp.o[0m
+[ 50%] Built target ament_cmake_python_copy_arduinobot_controller
+running egg_info
+writing arduinobot_controller.egg-info/PKG-INFO
+writing dependency_links to arduinobot_controller.egg-info/dependency_links.txt
+writing top-level names to arduinobot_controller.egg-info/top_level.txt
+reading manifest file 'arduinobot_controller.egg-info/SOURCES.txt'
+writing manifest file 'arduinobot_controller.egg-info/SOURCES.txt'
+[ 50%] Built target ament_cmake_python_build_arduinobot_controller_egg
+[ 66%] [32m[1mLinking CXX shared library libarduinobot_controller.so[0m
+[ 66%] Built target arduinobot_controller
+[ 83%] [32m[1mLinking CXX executable slider_control[0m
+[ 83%] Built target slider_control
