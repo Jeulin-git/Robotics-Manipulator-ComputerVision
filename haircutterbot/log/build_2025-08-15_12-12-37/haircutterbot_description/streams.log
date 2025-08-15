@@ -1,0 +1,71 @@
+[0.019s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_description -DCMAKE_INSTALL_PREFIX=/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description
+[0.084s] -- The C compiler identification is GNU 13.3.0
+[0.150s] -- The CXX compiler identification is GNU 13.3.0
+[0.167s] -- Detecting C compiler ABI info
+[0.296s] -- Detecting C compiler ABI info - done
+[0.310s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.311s] -- Detecting C compile features
+[0.312s] -- Detecting C compile features - done
+[0.324s] -- Detecting CXX compiler ABI info
+[0.441s] -- Detecting CXX compiler ABI info - done
+[0.453s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.453s] -- Detecting CXX compile features
+[0.454s] -- Detecting CXX compile features - done
+[0.460s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.641s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.796s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.966s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.971s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.971s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.972s] -- Added test 'lint_cmake' to check CMake code style
+[0.974s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.977s] -- Added test 'xmllint' to check XML markup files
+[0.979s] -- Configuring done (0.9s)
+[0.982s] -- Generating done (0.0s)
+[0.984s] -- Build files have been written to: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description
+[0.989s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_description -DCMAKE_INSTALL_PREFIX=/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description
+[0.990s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description -- -j8 -l8
+[1.038s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description -- -j8 -l8
+[1.049s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description
+[1.058s] -- Install configuration: ""
+[1.058s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/launch
+[1.058s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/launch/display.launch.py
+[1.058s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/launch/__pycache__
+[1.058s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/launch/__pycache__/gazebo.launch.cpython-312.pyc
+[1.059s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/launch/gazebo.launch.py
+[1.059s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes
+[1.059s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/right_finger.STL
+[1.059s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/forward_drive_arm.STL
+[1.060s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/basement.STL
+[1.061s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/servo_plate.STL
+[1.062s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/round_plate.STL
+[1.062s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/left_finger.STL
+[1.062s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/horizontal_arm.STL
+[1.063s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/claw_support.STL
+[1.064s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/triangular_link.STL
+[1.065s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/vertical_drive_arm.STL
+[1.066s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/plate.STL
+[1.068s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/link.STL
+[1.068s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/meshes/base_plate.STL
+[1.070s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/urdf
+[1.070s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/urdf/haircutterbot_gazebo.xacro
+[1.071s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/urdf/haircutterbot_ros2_control.xacro
+[1.071s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/urdf/haircutterbot.urdf.xacro
+[1.071s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/rviz
+[1.071s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/rviz/display.rviz
+[1.071s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/ament_index/resource_index/package_run_dependencies/haircutterbot_description
+[1.071s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/ament_index/resource_index/parent_prefix_path/haircutterbot_description
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/environment/ament_prefix_path.sh
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/environment/ament_prefix_path.dsv
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/environment/path.sh
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/environment/path.dsv
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/local_setup.bash
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/local_setup.sh
+[1.072s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/local_setup.zsh
+[1.073s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/local_setup.dsv
+[1.073s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/package.dsv
+[1.073s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/ament_index/resource_index/packages/haircutterbot_description
+[1.073s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/cmake/haircutterbot_descriptionConfig.cmake
+[1.073s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/cmake/haircutterbot_descriptionConfig-version.cmake
+[1.073s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_description/share/haircutterbot_description/package.xml
+[1.075s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_description

@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f3096c516d612316b1b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "haircutterbot_msgs__py",
+					"jsonFile" : "directory-haircutterbot_msgs__py-5f4377874fe92cde36a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/haircutterbot_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "haircutterbot_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_haircutterbot_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_haircutterbot_msgs_egg-b27519e06b217225df91.json",
+					"name" : "ament_cmake_python_build_haircutterbot_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_haircutterbot_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_haircutterbot_msgs-aa0152b13c8fde172ce9.json",
+					"name" : "ament_cmake_python_copy_haircutterbot_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs-ef10f1ef9e693bf90278.json",
+					"name" : "haircutterbot_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__cpp-670ddaa88047166d0bd8.json",
+					"name" : "haircutterbot_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "haircutterbot_msgs__py::@705cdfa7394d5e0d71e5",
+					"jsonFile" : "target-haircutterbot_msgs__py-3389e219337df64e6e5b.json",
+					"name" : "haircutterbot_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_generator_c-f7732cfe8287cf983754.json",
+					"name" : "haircutterbot_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_generator_py-bfd17ceabdf513ff4273.json",
+					"name" : "haircutterbot_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_generator_type_description-2f3b624434b1f3c6e5be.json",
+					"name" : "haircutterbot_msgs__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_typesupport_c-04048e3438c41af35a53.json",
+					"name" : "haircutterbot_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_typesupport_cpp-96f9004229c3239469d7.json",
+					"name" : "haircutterbot_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_typesupport_fastrtps_c-0b141ce122e19ca72b93.json",
+					"name" : "haircutterbot_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp-842670e0ee543d9ff937.json",
+					"name" : "haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_typesupport_introspection_c-098122a5bb895628d458.json",
+					"name" : "haircutterbot_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs__rosidl_typesupport_introspection_cpp-fb09aedf929e6af20132.json",
+					"name" : "haircutterbot_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs_s__rosidl_typesupport_c-499874f3d6931beaae62.json",
+					"name" : "haircutterbot_msgs_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c-e6aef4378eb4e5d0ae53.json",
+					"name" : "haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs_s__rosidl_typesupport_introspection_c-46016ddf0cf3846d7828.json",
+					"name" : "haircutterbot_msgs_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "haircutterbot_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-haircutterbot_msgs_uninstall-f349ac6a288383d10324.json",
+					"name" : "haircutterbot_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a5a2315c9ff16c9763d2.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs",
+		"source" : "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

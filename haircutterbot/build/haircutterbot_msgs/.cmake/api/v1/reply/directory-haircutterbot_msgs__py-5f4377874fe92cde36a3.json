@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "haircutterbot_msgs__py",
+		"source" : "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/haircutterbot_msgs__py"
+	}
+}

@@ -1,0 +1,8 @@
+setup.py
+haircutterbot_controller/__init__.py
+haircutterbot_controller/simple_controller.py
+haircutterbot_controller/slider_control.py
+haircutterbot_controller.egg-info/PKG-INFO
+haircutterbot_controller.egg-info/SOURCES.txt
+haircutterbot_controller.egg-info/dependency_links.txt
+haircutterbot_controller.egg-info/top_level.txt

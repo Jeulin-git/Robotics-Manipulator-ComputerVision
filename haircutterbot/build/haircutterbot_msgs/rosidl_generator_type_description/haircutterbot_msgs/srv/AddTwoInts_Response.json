@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "haircutterbot_msgs/srv/AddTwoInts_Response",
+      "fields": [
+        {
+          "name": "sum",
+          "type": {
+            "type_id": 8,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "haircutterbot_msgs/srv/AddTwoInts_Response",
+      "hash_string": "RIHS01_83bb7ee74d9981cae894ba8cde2fb4c7a5e20d549bb55d041cc2d1a53cffcb32"
+    }
+  ]
+}

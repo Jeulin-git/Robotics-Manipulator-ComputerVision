@@ -1,0 +1,17 @@
+{
+  "package_name": "haircutterbot_msgs",
+  "output_dir": "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/rosidl_generator_type_description/haircutterbot_msgs",
+  "idl_tuples": [
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:srv/AddTwoInts.idl",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:srv/EulerToQuaternion.idl",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:srv/QuaternionToEuler.idl",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:action/Fibonacci.idl",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:action/HaircutterbotTask.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "action_msgs:/opt/ros/jazzy/share/action_msgs",
+    "unique_identifier_msgs:/opt/ros/jazzy/share/unique_identifier_msgs"
+  ]
+}

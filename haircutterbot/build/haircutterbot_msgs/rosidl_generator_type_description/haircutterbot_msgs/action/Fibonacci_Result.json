@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "haircutterbot_msgs/action/Fibonacci_Result",
+      "fields": [
+        {
+          "name": "sequence",
+          "type": {
+            "type_id": 150,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "haircutterbot_msgs/action/Fibonacci_Result",
+      "hash_string": "RIHS01_23d042778a995f3e6d56174b5558023441dd7df09c9aa608721a82bcf4f7577e"
+    }
+  ]
+}

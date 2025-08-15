@@ -1,0 +1,10 @@
+{
+  "package_name": "haircutterbot_msgs",
+  "non_idl_tuples": [
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs:srv/AddTwoInts.srv",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs:srv/EulerToQuaternion.srv",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs:srv/QuaternionToEuler.srv",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs:action/Fibonacci.action",
+    "/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs:action/HaircutterbotTask.action"
+  ]
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+opencv_node = haircutterbot_opencv.opencv_node:main

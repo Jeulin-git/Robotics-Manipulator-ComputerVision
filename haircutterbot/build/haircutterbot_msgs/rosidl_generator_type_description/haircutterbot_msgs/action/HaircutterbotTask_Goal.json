@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "haircutterbot_msgs/action/HaircutterbotTask_Goal",
+      "fields": [
+        {
+          "name": "task_number",
+          "type": {
+            "type_id": 6,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "haircutterbot_msgs/action/HaircutterbotTask_Goal",
+      "hash_string": "RIHS01_129b99645ebf40eebb46dd1e4766935d34d31277df9138137fd1c1d2a5f33cc9"
+    }
+  ]
+}

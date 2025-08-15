@@ -1,0 +1,13 @@
+setup.py
+haircutterbot_msgs/__init__.py
+haircutterbot_msgs.egg-info/PKG-INFO
+haircutterbot_msgs.egg-info/SOURCES.txt
+haircutterbot_msgs.egg-info/dependency_links.txt
+haircutterbot_msgs.egg-info/top_level.txt
+haircutterbot_msgs/action/__init__.py
+haircutterbot_msgs/action/_fibonacci.py
+haircutterbot_msgs/action/_haircutterbot_task.py
+haircutterbot_msgs/srv/__init__.py
+haircutterbot_msgs/srv/_add_two_ints.py
+haircutterbot_msgs/srv/_euler_to_quaternion.py
+haircutterbot_msgs/srv/_quaternion_to_euler.py
