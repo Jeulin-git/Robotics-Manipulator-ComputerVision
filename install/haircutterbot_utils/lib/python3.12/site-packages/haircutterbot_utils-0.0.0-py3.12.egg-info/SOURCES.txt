@@ -1,0 +1,7 @@
+setup.py
+haircutterbot_utils/__init__.py
+haircutterbot_utils/angle_conversion.py
+haircutterbot_utils.egg-info/PKG-INFO
+haircutterbot_utils.egg-info/SOURCES.txt
+haircutterbot_utils.egg-info/dependency_links.txt
+haircutterbot_utils.egg-info/top_level.txt

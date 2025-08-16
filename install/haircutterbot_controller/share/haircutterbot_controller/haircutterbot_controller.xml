@@ -1,0 +1,10 @@
+<library path="haircutterbot_controller">
+    <class name="haircutterbot_controller/haircutterbotInterface"
+      type="haircutterbot_controller::haircutterbotInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        haircutterbot Hardware Interface
+      </description>
+    </class>
+  </library>

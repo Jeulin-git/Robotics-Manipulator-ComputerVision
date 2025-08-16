@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "haircutterbot_msgs/action/Fibonacci_Goal",
+      "fields": [
+        {
+          "name": "order",
+          "type": {
+            "type_id": 6,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "haircutterbot_msgs/action/Fibonacci_Goal",
+      "hash_string": "RIHS01_0a99856d98e186875d903807c908a0779edf0187514ac2a5dca7ddefbd07a22b"
+    }
+  ]
+}

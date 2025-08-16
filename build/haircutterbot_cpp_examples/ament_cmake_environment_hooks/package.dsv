@@ -1,0 +1,4 @@
+source;share/haircutterbot_cpp_examples/local_setup.bash
+source;share/haircutterbot_cpp_examples/local_setup.dsv
+source;share/haircutterbot_cpp_examples/local_setup.sh
+source;share/haircutterbot_cpp_examples/local_setup.zsh

@@ -1,0 +1,40 @@
+[2.039s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_opencv': AMENT_PREFIX_PATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages:/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/haircutterbot_opencv build --build-base /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build install --record /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/install.log --single-version-externally-managed install_data
+[2.627s] running egg_info
+[2.627s] creating ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info
+[2.658s] writing ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/PKG-INFO
+[2.658s] writing dependency_links to ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/dependency_links.txt
+[2.658s] writing entry points to ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/entry_points.txt
+[2.659s] writing requirements to ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/requires.txt
+[2.659s] writing top-level names to ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/top_level.txt
+[2.659s] writing manifest file '../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/SOURCES.txt'
+[2.729s] reading manifest file '../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/SOURCES.txt'
+[2.730s] writing manifest file '../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/SOURCES.txt'
+[2.730s] running build
+[2.730s] running build_py
+[2.730s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build
+[2.730s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build/lib
+[2.730s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build/lib/haircutterbot_opencv
+[2.731s] copying haircutterbot_opencv/opencv_node.py -> /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build/lib/haircutterbot_opencv
+[2.731s] copying haircutterbot_opencv/__init__.py -> /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build/lib/haircutterbot_opencv
+[2.731s] running install
+[2.743s] running install_lib
+[2.776s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv
+[2.776s] copying /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build/lib/haircutterbot_opencv/opencv_node.py -> /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv
+[2.776s] copying /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build/lib/haircutterbot_opencv/__init__.py -> /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv
+[2.777s] byte-compiling /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv/opencv_node.py to opencv_node.cpython-312.pyc
+[2.779s] /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv/opencv_node.py:65: SyntaxWarning: "is" with 'tuple' literal. Did you mean "=="?
+[2.779s]   if face_rects is ():
+[2.779s] byte-compiling /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv/__init__.py to __init__.cpython-312.pyc
+[2.779s] running install_data
+[2.779s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/share/ament_index
+[2.779s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/share/ament_index/resource_index
+[2.780s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/share/ament_index/resource_index/packages
+[2.780s] copying resource/haircutterbot_opencv -> /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/share/ament_index/resource_index/packages
+[2.780s] copying package.xml -> /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/share/haircutterbot_opencv
+[2.780s] creating /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/share/haircutterbot_opencv/launch
+[2.780s] running install_egg_info
+[2.833s] Copying ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info to /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv-0.0.0-py3.12.egg-info
+[2.835s] running install_scripts
+[3.107s] Installing opencv_node script to /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/haircutterbot_opencv
+[3.108s] writing list of installed files to '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/install.log'
+[3.177s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_opencv' returned '0': AMENT_PREFIX_PATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages:/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/haircutterbot_opencv build --build-base /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/build install --record /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_opencv/install.log --single-version-externally-managed install_data

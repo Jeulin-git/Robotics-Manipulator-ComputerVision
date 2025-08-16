@@ -1,0 +1,387 @@
+[0.031s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section7_Application/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs -DCMAKE_INSTALL_PREFIX=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs
+[0.218s] -- The C compiler identification is GNU 13.3.0
+[0.288s] -- The CXX compiler identification is GNU 13.3.0
+[0.317s] -- Detecting C compiler ABI info
+[0.438s] -- Detecting C compiler ABI info - done
+[0.453s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.453s] -- Detecting C compile features
+[0.454s] -- Detecting C compile features - done
+[0.465s] -- Detecting CXX compiler ABI info
+[0.586s] -- Detecting CXX compiler ABI info - done
+[0.599s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.599s] -- Detecting CXX compile features
+[0.600s] -- Detecting CXX compile features - done
+[0.615s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.855s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.092s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.178s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.211s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.251s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.297s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.374s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[1.420s] -- Found rosidl_adapter: 4.6.5 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[2.542s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[3.683s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.083s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.092s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[4.292s] -- Found PythonExtra: /usr/bin/python3  
+[4.998s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[5.081s] -- Configuring done (5.0s)
+[5.173s] -- Generating done (0.1s)
+[5.197s] -- Build files have been written to: /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs
+[5.223s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section7_Application/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/src/haircutterbot_msgs -DCMAKE_INSTALL_PREFIX=/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs
+[5.225s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section7_Application/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs -- -j8 -l8
+[5.326s] [  1%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[5.335s] [  1%] Built target ament_cmake_python_copy_haircutterbot_msgs
+[5.682s] running egg_info
+[5.683s] creating haircutterbot_msgs.egg-info
+[5.723s] writing haircutterbot_msgs.egg-info/PKG-INFO
+[5.723s] writing dependency_links to haircutterbot_msgs.egg-info/dependency_links.txt
+[5.724s] writing top-level names to haircutterbot_msgs.egg-info/top_level.txt
+[5.724s] writing manifest file 'haircutterbot_msgs.egg-info/SOURCES.txt'
+[5.841s] reading manifest file 'haircutterbot_msgs.egg-info/SOURCES.txt'
+[5.842s] writing manifest file 'haircutterbot_msgs.egg-info/SOURCES.txt'
+[5.890s] [  1%] Built target ament_cmake_python_build_haircutterbot_msgs_egg
+[6.000s] [  1%] Built target haircutterbot_msgs__rosidl_generator_type_description
+[6.021s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[6.036s] [  4%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[7.422s] [  4%] Built target haircutterbot_msgs__cpp
+[8.119s] [  5%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/add_two_ints__functions.c.o[0m
+[8.121s] [  6%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/euler_to_quaternion__description.c.o[0m
+[8.129s] [  8%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/add_two_ints__type_support.c.o[0m
+[8.130s] [  9%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/add_two_ints__description.c.o[0m
+[8.131s] [ 10%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/euler_to_quaternion__functions.c.o[0m
+[8.142s] [ 12%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.c.o[0m
+[8.160s] [ 13%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/quaternion_to_euler__description.c.o[0m
+[8.160s] [ 14%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/quaternion_to_euler__functions.c.o[0m
+[8.296s] [ 16%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.c.o[0m
+[8.311s] [ 17%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/action/detail/fibonacci__description.c.o[0m
+[8.324s] [ 18%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/action/detail/fibonacci__type_support.c.o[0m
+[8.325s] [ 20%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/action/detail/fibonacci__functions.c.o[0m
+[8.352s] [ 21%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/action/detail/haircutterbot_task__description.c.o[0m
+[8.369s] [ 22%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/action/detail/haircutterbot_task__functions.c.o[0m
+[8.370s] [ 24%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_c.dir/rosidl_generator_c/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.c.o[0m
+[8.666s] [ 25%] [32m[1mLinking C shared library libhaircutterbot_msgs__rosidl_generator_c.so[0m
+[8.730s] [ 25%] Built target haircutterbot_msgs__rosidl_generator_c
+[8.752s] [ 27%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[8.760s] [ 28%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[8.764s] [ 29%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[8.770s] [ 31%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[8.775s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[8.778s] [ 33%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[10.019s] [ 35%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/haircutterbot_msgs/srv/add_two_ints__type_support.cpp.o[0m
+[10.020s] [ 36%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/haircutterbot_msgs/srv/euler_to_quaternion__type_support.cpp.o[0m
+[10.024s] [ 37%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/haircutterbot_msgs/srv/quaternion_to_euler__type_support.cpp.o[0m
+[10.178s] [ 39%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/haircutterbot_msgs/action/fibonacci__type_support.cpp.o[0m
+[10.203s] [ 40%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/haircutterbot_msgs/action/haircutterbot_task__type_support.cpp.o[0m
+[10.423s] [ 41%] [32m[1mLinking CXX shared library libhaircutterbot_msgs__rosidl_typesupport_c.so[0m
+[10.539s] [ 43%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/haircutterbot_msgs/srv/add_two_ints__type_support.cpp.o[0m
+[10.541s] [ 44%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/haircutterbot_msgs/srv/quaternion_to_euler__type_support.cpp.o[0m
+[10.544s] [ 45%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/haircutterbot_msgs/srv/euler_to_quaternion__type_support.cpp.o[0m
+[10.589s] [ 45%] Built target haircutterbot_msgs__rosidl_typesupport_c
+[10.628s] [ 47%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/haircutterbot_msgs/action/fibonacci__type_support.cpp.o[0m
+[10.944s] [ 48%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/haircutterbot_msgs/srv/detail/add_two_ints__type_support.cpp.o[0m
+[11.029s] [ 50%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/haircutterbot_msgs/srv/detail/add_two_ints__type_support.c.o[0m
+[11.218s] [ 51%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.c.o[0m
+[11.343s] [ 52%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.c.o[0m
+[11.427s] [ 54%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/haircutterbot_msgs/action/detail/fibonacci__type_support.c.o[0m
+[11.539s] [ 55%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.c.o[0m
+[11.559s] [ 56%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/haircutterbot_msgs/action/haircutterbot_task__type_support.cpp.o[0m
+[11.754s] [ 58%] [32m[1mLinking C shared library libhaircutterbot_msgs__rosidl_typesupport_introspection_c.so[0m
+[11.835s] [ 59%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.cpp.o[0m
+[11.855s] [ 59%] Built target haircutterbot_msgs__rosidl_typesupport_introspection_c
+[11.894s] [ 60%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.cpp.o[0m
+[11.936s] [ 62%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/haircutterbot_msgs/action/detail/fibonacci__type_support.cpp.o[0m
+[11.977s] [ 63%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.cpp.o[0m
+[12.004s] [ 64%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/haircutterbot_msgs/srv/detail/dds_fastrtps/add_two_ints__type_support.cpp.o[0m
+[12.061s] [ 66%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/haircutterbot_msgs/srv/detail/add_two_ints__type_support_c.cpp.o[0m
+[12.699s] [ 67%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/haircutterbot_msgs/srv/detail/dds_fastrtps/euler_to_quaternion__type_support.cpp.o[0m
+[12.715s] [ 68%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/haircutterbot_msgs/srv/detail/dds_fastrtps/quaternion_to_euler__type_support.cpp.o[0m
+[12.785s] [ 70%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/haircutterbot_msgs/action/detail/dds_fastrtps/fibonacci__type_support.cpp.o[0m
+[13.312s] [ 71%] [32m[1mLinking CXX shared library libhaircutterbot_msgs__rosidl_typesupport_cpp.so[0m
+[13.419s] [ 72%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support_c.cpp.o[0m
+[13.623s] [ 72%] Built target haircutterbot_msgs__rosidl_typesupport_cpp
+[13.663s] [ 74%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/haircutterbot_msgs/action/detail/dds_fastrtps/haircutterbot_task__type_support.cpp.o[0m
+[13.821s] [ 75%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support_c.cpp.o[0m
+[14.114s] [ 77%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/haircutterbot_msgs/action/detail/fibonacci__type_support_c.cpp.o[0m
+[14.295s] [ 78%] [32m[1mLinking CXX shared library libhaircutterbot_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[14.431s] [ 79%] [32mBuilding CXX object CMakeFiles/haircutterbot_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/haircutterbot_msgs/action/detail/haircutterbot_task__type_support_c.cpp.o[0m
+[14.582s] [ 79%] Built target haircutterbot_msgs__rosidl_typesupport_introspection_cpp
+[15.428s] [ 81%] [32m[1mLinking CXX shared library libhaircutterbot_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[15.493s] [ 81%] Built target haircutterbot_msgs__rosidl_typesupport_fastrtps_c
+[15.516s] [ 82%] [32m[1mLinking CXX shared library libhaircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[15.645s] [ 82%] Built target haircutterbot_msgs__rosidl_typesupport_fastrtps_cpp
+[15.671s] [ 82%] Built target haircutterbot_msgs
+[15.696s] [ 83%] [34m[1mGenerating Python code for ROS interfaces[0m
+[17.954s] [ 83%] Built target haircutterbot_msgs__py
+[17.994s] [ 85%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_py.dir/rosidl_generator_py/haircutterbot_msgs/action/_haircutterbot_task_s.c.o[0m
+[17.997s] [ 86%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_py.dir/rosidl_generator_py/haircutterbot_msgs/action/_fibonacci_s.c.o[0m
+[18.000s] [ 87%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_py.dir/rosidl_generator_py/haircutterbot_msgs/srv/_euler_to_quaternion_s.c.o[0m
+[18.000s] [ 89%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_py.dir/rosidl_generator_py/haircutterbot_msgs/srv/_add_two_ints_s.c.o[0m
+[18.001s] [ 90%] [32mBuilding C object CMakeFiles/haircutterbot_msgs__rosidl_generator_py.dir/rosidl_generator_py/haircutterbot_msgs/srv/_quaternion_to_euler_s.c.o[0m
+[18.425s] [ 91%] [32m[1mLinking C shared library libhaircutterbot_msgs__rosidl_generator_py.so[0m
+[18.494s] [ 91%] Built target haircutterbot_msgs__rosidl_generator_py
+[18.528s] [ 93%] [32mBuilding C object CMakeFiles/haircutterbot_msgs_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/haircutterbot_msgs/_haircutterbot_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[18.531s] [ 94%] [32mBuilding C object CMakeFiles/haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/haircutterbot_msgs/_haircutterbot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[18.532s] [ 95%] [32mBuilding C object CMakeFiles/haircutterbot_msgs_s__rosidl_typesupport_c.dir/rosidl_generator_py/haircutterbot_msgs/_haircutterbot_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[18.865s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_introspection_c.so[0m
+[18.866s] [ 98%] [32m[1mLinking C shared module rosidl_generator_py/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_c.so[0m
+[18.898s] [100%] [32m[1mLinking C shared module rosidl_generator_py/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c.so[0m
+[18.919s] [100%] Built target haircutterbot_msgs_s__rosidl_typesupport_c
+[18.923s] [100%] Built target haircutterbot_msgs_s__rosidl_typesupport_introspection_c
+[18.959s] [100%] Built target haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c
+[18.980s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section7_Application/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs -- -j8 -l8
+[18.981s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section7_Application/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs
+[18.996s] -- Install configuration: ""
+[18.996s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/ament_index/resource_index/rosidl_interfaces/haircutterbot_msgs
+[18.996s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/AddTwoInts.json
+[18.997s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/EulerToQuaternion.json
+[18.997s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/QuaternionToEuler.json
+[18.997s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/action/Fibonacci.json
+[18.997s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/action/HaircutterbotTask.json
+[18.998s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs
+[18.998s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action
+[18.998s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail
+[18.998s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__functions.c
+[18.998s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__struct.h
+[18.998s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__type_support.h
+[18.999s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__type_support.c
+[18.999s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.c
+[18.999s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__functions.h
+[18.999s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.h
+[18.999s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__functions.c
+[19.000s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__struct.h
+[19.000s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__description.c
+[19.000s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__description.c
+[19.000s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__functions.h
+[19.001s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/fibonacci.h
+[19.001s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/haircutterbot_task.h
+[19.001s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg
+[19.002s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg/rosidl_generator_c__visibility_control.h
+[19.002s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv
+[19.002s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail
+[19.002s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.c
+[19.002s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__functions.c
+[19.003s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__functions.h
+[19.003s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__type_support.c
+[19.003s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__functions.h
+[19.003s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__struct.h
+[19.003s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__description.c
+[19.003s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.h
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__type_support.h
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__functions.c
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__struct.h
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__description.c
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__functions.c
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__functions.h
+[19.004s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__description.c
+[19.005s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__struct.h
+[19.005s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.c
+[19.005s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.h
+[19.005s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/euler_to_quaternion.h
+[19.005s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/quaternion_to_euler.h
+[19.006s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/add_two_ints.h
+[19.006s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/library_path.sh
+[19.006s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/library_path.dsv
+[19.006s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_generator_c.so
+[19.007s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_generator_c.so" to ""
+[19.007s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs
+[19.007s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action
+[19.007s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail
+[19.007s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__rosidl_typesupport_fastrtps_c.h
+[19.008s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__rosidl_typesupport_fastrtps_c.h
+[19.008s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg
+[19.008s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[19.008s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv
+[19.008s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail
+[19.008s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__rosidl_typesupport_fastrtps_c.h
+[19.009s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_fastrtps_c.h
+[19.009s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_fastrtps_c.h
+[19.009s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_fastrtps_c.so
+[19.009s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[19.009s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs
+[19.009s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action
+[19.010s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail
+[19.010s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__struct.hpp
+[19.010s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.hpp
+[19.010s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__type_support.hpp
+[19.010s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__struct.hpp
+[19.011s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__traits.hpp
+[19.011s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__traits.hpp
+[19.011s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__builder.hpp
+[19.011s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__builder.hpp
+[19.011s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/haircutterbot_task.hpp
+[19.011s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/fibonacci.hpp
+[19.012s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg
+[19.012s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[19.012s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv
+[19.012s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail
+[19.012s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__traits.hpp
+[19.012s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__struct.hpp
+[19.013s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__traits.hpp
+[19.013s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__struct.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__traits.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__builder.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__builder.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__builder.hpp
+[19.014s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__type_support.hpp
+[19.015s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__struct.hpp
+[19.015s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/add_two_ints.hpp
+[19.015s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/euler_to_quaternion.hpp
+[19.015s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/quaternion_to_euler.hpp
+[19.015s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs
+[19.015s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action
+[19.016s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail
+[19.016s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__rosidl_typesupport_fastrtps_cpp.hpp
+[19.016s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/dds_fastrtps
+[19.016s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__rosidl_typesupport_fastrtps_cpp.hpp
+[19.016s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg
+[19.016s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[19.016s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv
+[19.016s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail
+[19.017s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_fastrtps_cpp.hpp
+[19.017s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_fastrtps_cpp.hpp
+[19.017s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/dds_fastrtps
+[19.017s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[19.017s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.so
+[19.017s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[19.018s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs
+[19.018s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action
+[19.018s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail
+[19.018s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__type_support.c
+[19.018s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.c
+[19.018s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__rosidl_typesupport_introspection_c.h
+[19.019s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__rosidl_typesupport_introspection_c.h
+[19.019s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg
+[19.019s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[19.019s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv
+[19.019s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail
+[19.019s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.c
+[19.020s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__type_support.c
+[19.020s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__rosidl_typesupport_introspection_c.h
+[19.020s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.c
+[19.020s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_introspection_c.h
+[19.020s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_introspection_c.h
+[19.020s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_introspection_c.so
+[19.021s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_introspection_c.so" to ""
+[19.021s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_c.so
+[19.022s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_c.so" to ""
+[19.022s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs
+[19.022s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action
+[19.023s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail
+[19.023s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__rosidl_typesupport_introspection_cpp.hpp
+[19.023s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/haircutterbot_task__type_support.cpp
+[19.023s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__rosidl_typesupport_introspection_cpp.hpp
+[19.024s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/action/detail/fibonacci__type_support.cpp
+[19.024s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv
+[19.024s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail
+[19.024s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__rosidl_typesupport_introspection_cpp.hpp
+[19.024s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__rosidl_typesupport_introspection_cpp.hpp
+[19.025s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__rosidl_typesupport_introspection_cpp.hpp
+[19.025s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/euler_to_quaternion__type_support.cpp
+[19.025s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/add_two_ints__type_support.cpp
+[19.025s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/include/haircutterbot_msgs/haircutterbot_msgs/srv/detail/quaternion_to_euler__type_support.cpp
+[19.025s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_introspection_cpp.so
+[19.026s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[19.026s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_cpp.so
+[19.028s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_typesupport_cpp.so" to ""
+[19.028s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/pythonpath.sh
+[19.029s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/pythonpath.dsv
+[19.029s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs-0.0.0-py3.12.egg-info
+[19.029s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs-0.0.0-py3.12.egg-info/PKG-INFO
+[19.029s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs-0.0.0-py3.12.egg-info/top_level.txt
+[19.030s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs-0.0.0-py3.12.egg-info/SOURCES.txt
+[19.030s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs-0.0.0-py3.12.egg-info/dependency_links.txt
+[19.030s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs
+[19.030s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action
+[19.030s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/_haircutterbot_task_s.c
+[19.030s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/_fibonacci.py
+[19.031s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/__init__.py
+[19.031s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/_haircutterbot_task.py
+[19.031s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/_fibonacci_s.c
+[19.031s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/_haircutterbot_msgs_s.ep.rosidl_typesupport_c.c
+[19.031s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_c.so
+[19.031s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/_haircutterbot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[19.032s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv
+[19.035s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_add_two_ints.py
+[19.035s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_euler_to_quaternion_s.c
+[19.035s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_quaternion_to_euler.py
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_add_two_ints_s.c
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/__init__.py
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_euler_to_quaternion.py
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_quaternion_to_euler_s.c
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_introspection_c.so
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/_haircutterbot_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c.so
+[19.036s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/__init__.py
+[19.173s] Listing '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs'...
+[19.173s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/__init__.py'...
+[19.173s] Listing '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action'...
+[19.173s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/__init__.py'...
+[19.173s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/_fibonacci.py'...
+[19.173s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/action/_haircutterbot_task.py'...
+[19.173s] Listing '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv'...
+[19.173s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/__init__.py'...
+[19.174s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_add_two_ints.py'...
+[19.174s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_euler_to_quaternion.py'...
+[19.174s] Compiling '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/srv/_quaternion_to_euler.py'...
+[19.185s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c.so
+[19.185s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_fastrtps_c.so" to ""
+[19.187s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_introspection_c.so
+[19.187s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_introspection_c.so" to ""
+[19.187s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_c.so
+[19.188s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/python3.12/site-packages/haircutterbot_msgs/haircutterbot_msgs_s__rosidl_typesupport_c.so" to ""
+[19.188s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_generator_py.so
+[19.188s] -- Set non-toolchain portion of runtime path of "/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/lib/libhaircutterbot_msgs__rosidl_generator_py.so" to ""
+[19.188s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/AddTwoInts.idl
+[19.189s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/EulerToQuaternion.idl
+[19.189s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/QuaternionToEuler.idl
+[19.189s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/action/Fibonacci.idl
+[19.189s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/action/HaircutterbotTask.idl
+[19.190s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/AddTwoInts.srv
+[19.191s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/EulerToQuaternion.srv
+[19.191s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/srv/QuaternionToEuler.srv
+[19.191s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/action/Fibonacci.action
+[19.192s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/action/HaircutterbotTask.action
+[19.192s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/ament_index/resource_index/package_run_dependencies/haircutterbot_msgs
+[19.193s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/ament_index/resource_index/parent_prefix_path/haircutterbot_msgs
+[19.193s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/ament_prefix_path.sh
+[19.194s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/ament_prefix_path.dsv
+[19.195s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/path.sh
+[19.195s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/environment/path.dsv
+[19.195s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/local_setup.bash
+[19.195s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/local_setup.sh
+[19.195s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/local_setup.zsh
+[19.196s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/local_setup.dsv
+[19.196s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/package.dsv
+[19.196s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/ament_index/resource_index/packages/haircutterbot_msgs
+[19.196s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_generator_cExport.cmake
+[19.196s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_generator_cExport-noconfig.cmake
+[19.197s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[19.197s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[19.197s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_generator_cppExport.cmake
+[19.198s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[19.198s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[19.198s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_introspection_cExport.cmake
+[19.198s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[19.198s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_cExport.cmake
+[19.198s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[19.199s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[19.199s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[19.199s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_cppExport.cmake
+[19.199s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[19.200s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_generator_pyExport.cmake
+[19.200s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/export_haircutterbot_msgs__rosidl_generator_pyExport-noconfig.cmake
+[19.200s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/rosidl_cmake-extras.cmake
+[19.200s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[19.200s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[19.201s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[19.201s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[19.201s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[19.202s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[19.202s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgsConfig.cmake
+[19.202s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/cmake/haircutterbot_msgsConfig-version.cmake
+[19.202s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_msgs/share/haircutterbot_msgs/package.xml
+[19.206s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/git-repo-projects/Robotics-Manipulator/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_py_examples:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section9_Build/haircutterbot/install/haircutterbot_opencv:/home/jeulin/Robotics-and-ROS-2-Learn-by-Doing-Manipulators/Section7_Application/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs

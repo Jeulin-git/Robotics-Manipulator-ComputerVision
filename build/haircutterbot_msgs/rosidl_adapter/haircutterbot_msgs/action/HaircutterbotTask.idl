@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from haircutterbot_msgs/action/HaircutterbotTask.action
+// generated code does not contain a copyright notice
+
+
+module haircutterbot_msgs {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal         ")
+    struct HaircutterbotTask_Goal {
+      int32 task_number;
+    };
+    @verbatim (language="comment", text=
+      "Result")
+    struct HaircutterbotTask_Result {
+      boolean success;
+    };
+    @verbatim (language="comment", text=
+      "Feedback")
+    struct HaircutterbotTask_Feedback {
+      int32 percentage;
+    };
+  };
+};

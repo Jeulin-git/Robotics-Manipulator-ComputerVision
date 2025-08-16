@@ -1,0 +1,2 @@
+source;share/haircutterbot_moveit/environment/ament_prefix_path.sh
+source;share/haircutterbot_moveit/environment/path.sh

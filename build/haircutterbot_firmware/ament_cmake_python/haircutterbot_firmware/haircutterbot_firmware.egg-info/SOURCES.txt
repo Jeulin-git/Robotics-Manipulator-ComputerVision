@@ -1,0 +1,8 @@
+setup.py
+haircutterbot_firmware/__init__.py
+haircutterbot_firmware/simple_serial_receiver.py
+haircutterbot_firmware/simple_serial_transmitter.py
+haircutterbot_firmware.egg-info/PKG-INFO
+haircutterbot_firmware.egg-info/SOURCES.txt
+haircutterbot_firmware.egg-info/dependency_links.txt
+haircutterbot_firmware.egg-info/top_level.txt

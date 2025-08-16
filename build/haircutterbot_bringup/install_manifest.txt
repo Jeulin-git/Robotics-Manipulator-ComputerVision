@@ -1,0 +1,17 @@
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/launch/real_robot.launch.py
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/launch/simulated_robot.launch.py
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/ament_index/resource_index/package_run_dependencies/haircutterbot_bringup
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/ament_index/resource_index/parent_prefix_path/haircutterbot_bringup
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/environment/ament_prefix_path.sh
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/environment/ament_prefix_path.dsv
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/environment/path.sh
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/environment/path.dsv
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/local_setup.bash
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/local_setup.sh
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/local_setup.zsh
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/local_setup.dsv
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/package.dsv
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/ament_index/resource_index/packages/haircutterbot_bringup
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/cmake/haircutterbot_bringupConfig.cmake
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/cmake/haircutterbot_bringupConfig-version.cmake
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_bringup/share/haircutterbot_bringup/package.xml

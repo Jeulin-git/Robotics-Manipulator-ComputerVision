@@ -1,0 +1,4 @@
+source;share/haircutterbot_bringup/local_setup.bash
+source;share/haircutterbot_bringup/local_setup.dsv
+source;share/haircutterbot_bringup/local_setup.sh
+source;share/haircutterbot_bringup/local_setup.zsh

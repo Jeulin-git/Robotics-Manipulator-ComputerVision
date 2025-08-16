@@ -1,0 +1,5 @@
+/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:srv/AddTwoInts.idl
+/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:srv/EulerToQuaternion.idl
+/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:srv/QuaternionToEuler.idl
+/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:action/Fibonacci.idl
+/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_msgs/rosidl_adapter/haircutterbot_msgs:action/HaircutterbotTask.idl

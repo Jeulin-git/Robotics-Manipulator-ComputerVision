@@ -1,0 +1,2 @@
+/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_opencv/lib/python3.12/site-packages/haircutterbot_opencv/opencv_node.py:65: SyntaxWarning: "is" with 'tuple' literal. Did you mean "=="?
+  if face_rects is ():
