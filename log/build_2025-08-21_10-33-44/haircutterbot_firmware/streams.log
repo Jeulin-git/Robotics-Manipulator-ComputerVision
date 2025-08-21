@@ -1,0 +1,46 @@
+[0.020s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware -- -j8 -l8
+[0.126s] [ 50%] Built target simple_serial_transmitter
+[0.129s] [ 50%] Built target ament_cmake_python_copy_haircutterbot_firmware
+[0.129s] [100%] Built target simple_serial_receiver
+[0.498s] running egg_info
+[0.531s] writing haircutterbot_firmware.egg-info/PKG-INFO
+[0.531s] writing dependency_links to haircutterbot_firmware.egg-info/dependency_links.txt
+[0.532s] writing top-level names to haircutterbot_firmware.egg-info/top_level.txt
+[0.617s] reading manifest file 'haircutterbot_firmware.egg-info/SOURCES.txt'
+[0.619s] writing manifest file 'haircutterbot_firmware.egg-info/SOURCES.txt'
+[0.650s] [100%] Built target ament_cmake_python_build_haircutterbot_firmware_egg
+[0.666s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware -- -j8 -l8
+[0.667s] Invoking command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware
+[0.676s] -- Install configuration: ""
+[0.676s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/environment/pythonpath.sh
+[0.676s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/environment/pythonpath.dsv
+[0.676s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware-0.0.0-py3.12.egg-info
+[0.677s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware-0.0.0-py3.12.egg-info/PKG-INFO
+[0.677s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware-0.0.0-py3.12.egg-info/top_level.txt
+[0.677s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware-0.0.0-py3.12.egg-info/SOURCES.txt
+[0.677s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware-0.0.0-py3.12.egg-info/dependency_links.txt
+[0.677s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware
+[0.677s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware/simple_serial_receiver.py
+[0.677s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware/simple_serial_transmitter.py
+[0.678s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware/__init__.py
+[0.723s] Listing '/home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/python3.12/site-packages/haircutterbot_firmware'...
+[0.728s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/haircutterbot_firmware/simple_serial_receiver
+[0.729s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/haircutterbot_firmware/simple_serial_transmitter
+[0.729s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/haircutterbot_firmware/simple_serial_transmitter.py
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/lib/haircutterbot_firmware/simple_serial_receiver.py
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/ament_index/resource_index/package_run_dependencies/haircutterbot_firmware
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/ament_index/resource_index/parent_prefix_path/haircutterbot_firmware
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/environment/ament_prefix_path.sh
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/environment/ament_prefix_path.dsv
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/environment/path.sh
+[0.730s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/environment/path.dsv
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/local_setup.bash
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/local_setup.sh
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/local_setup.zsh
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/local_setup.dsv
+[0.731s] -- Installing: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/package.dsv
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/ament_index/resource_index/packages/haircutterbot_firmware
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/cmake/haircutterbot_firmwareConfig.cmake
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/cmake/haircutterbot_firmwareConfig-version.cmake
+[0.731s] -- Up-to-date: /home/jeulin/git-repo-projects/Robotics-Manipulator/install/haircutterbot_firmware/share/haircutterbot_firmware/package.xml
+[0.733s] Invoked command in '/home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/jeulin/git-repo-projects/Robotics-Manipulator/build/haircutterbot_firmware

@@ -9,6 +9,7 @@ setup.py
 ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/top_level.txt
 ../../../build/haircutterbot_opencv/haircutterbot_opencv.egg-info/zip-safe
 haircutterbot_opencv/__init__.py
+haircutterbot_opencv/object_recognition_node.py
 haircutterbot_opencv/opencv_node.py
 resource/haircutterbot_opencv
 test/test_copyright.py
