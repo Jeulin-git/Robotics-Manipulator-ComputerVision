@@ -37,7 +37,7 @@ class CameraSubscriber(Node):
         else:
            
             bridge = CvBridge()
-            cv_image = bridge.imgmsg_to_cv2(msg, desired_encoding='passthrough')
+            cv_image = bridge.imgmsg_to_cv2(msg, desired_encoding='bgr8')
             gray_image = cv2.cvtColor(cv_image, cv2.COLOR_BGR2GRAY)
 
             # try:
@@ -70,6 +70,8 @@ class CameraSubscriber(Node):
 
             cv2.imshow("Cam cam deo", cv_image)
             cv2.waitKey(3)
+            #Ligne à recheck
+            ros_image = self.bridge.cv2_to_imgmsg(cv_image, encoding="bgr8")
             self.pub_.publish(msg)
                             
 
