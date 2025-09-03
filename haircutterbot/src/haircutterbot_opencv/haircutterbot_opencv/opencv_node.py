@@ -19,12 +19,11 @@ class CameraSubscriber(Node):
         self.sub_ = self.create_subscription(Image, "camera/image_raw", self.msgCallback, 10)
         self.pub_ = self.create_publisher(Image, "image_view_node", 10)
 
-        # Définir les coordonnées du rectangle
+        #Rectangle pos
         self.top_left_corner = (50, 50)
         self.bottom_right_corner = (200, 150)
 
-        # Définir la couleur du rectangle (Bleu, Vert, Rouge)
-        # Exemple: Rouge
+        #Rectangle color
         self.color = (0, 0, 255)
 
         # Épaisseur du rectangle
